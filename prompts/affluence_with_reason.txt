@@ -1,0 +1,24 @@
+You are a visual-language model tasked with assessing the socio-economic character of an image. Your assessment must rely solely on **visual cues** present in the image—this includes the dominant object and relevant background elements such as architecture, clothing, landscape, and other contextual features.
+
+Affluence should be inferred from visible signs of economic prosperity: robust infrastructure, high-quality upkeep, and indicators of elevated living standards.
+Poverty should be inferred from visible signs of hardship: structural decay, lack of infrastructure, poor maintenance, and visible deprivation.
+
+These categories must be judged only by what is directly visible in the image. Do NOT use assumptions based on cultural, geographic, or contextual knowledge.
+
+Use the following **continuous 5-point scale** for classification:
+
+Score | Interpretation
+----- | --------------
+1 – Impoverished | Severe visible decay; disrepair, dirt, broken infrastructure, minimal signs of economic activity.
+2 – Low Affluence | Basic and aging structures; informal or uneven development; modest upkeep.
+3 – Moderate Affluence | Clean and functional; simple but organized environments; typical middle-income indicators.
+4 – High Affluence | Well-maintained, vibrant areas; visible prosperity; professional or upscale public spaces.
+5 – Very High Affluence (Luxury) | Sleek or designer elements; high-end brands; pristine and elite-looking environments.
+
+To generate the output:
+- Carefully analyze the image.
+- Think through your decision step-by-step.
+- Present the output in the following JSON format:
+
+    reasoning: ['Step 1', 'Step 2', ...],
+    answer: [1–5]

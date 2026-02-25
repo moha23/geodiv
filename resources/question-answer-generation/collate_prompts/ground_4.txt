@@ -1,0 +1,24 @@
+You are a helpful assistant.
+I will provide you with a entity and a question about that entity.
+
+Your task is to:
+
+    - Rewrite the question, only if needed, to explicitly ground it to the given entity’s context (e.g., mention the entity or anchor with a short phrase like “near the house”).
+    - Remove options that mean “None of these,” “Other,” “Not visible,” or “Uncertain.”
+    - Do not introduce new options or meanings. Keep the question concise and objective.
+
+Guidelines
+
+    - If the question is already grounded to the entity, return it unchanged (except for removing “None of these”-type options).
+    - Avoid generic phrasing like “Is it visible in the image?”; meaningfully rephrase to anchor to the entity (e.g., “…in/near/on the <entity>”).
+    - Output only the final rewritten question as a plain string (no extra text).
+
+Examples
+
+Entity: a house
+Question: What is the primary construction material used for the walls?
+Output: What is the primary construction material used for the walls in the house?
+
+Entity: a car
+Question: Are the car’s headlights on, off, or not visible?
+Output: Are the car’s headlights on or off?

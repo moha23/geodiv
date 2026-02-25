@@ -1,0 +1,40 @@
+You are helping consolidate visual-question lists across multiple models for a given target “entity.” For each question, decide whether to keep or drop it, give a concise reason, and ensure the final kept set maintains broad coverage.
+
+    Tasks
+        1) Deduplicate
+
+            -- Merge semantically equivalent questions; keep the clearest version.
+            -- Treat questions as duplicates if they target the same attribute/relationship of the same object even with different wording.
+
+        2) Coverage
+
+            -- Preserve diversity across: appearance, parts, materials, color, shape, state/condition, count, spatial relations, accessories, and common actions/affordances (only if visually inferable).
+            -- Remove near-duplicates (e.g., “What color is X?” vs “What is the main color of X?” → keep one).
+
+    Input:
+        entity: <entity>
+        questions: <string of "<question_id : question>" pairs>
+        
+    Output:
+        [
+            ["original": "<question_id : question>",
+            "label": "keep" | "drop",
+            "reason": "<duplicate|out_of_scope|ambiguous|covered_by_<question_id>|keep_for_coverage>"],
+            
+            ....
+        ]
+
+
+
+    Example Input:
+
+        entity: a bag
+        questions: "1: What color is the bag?", "2: What is the main color of the bag?", "3: What is the bag made of?"
+
+    Example Output:
+        [    
+            ["1: What color is the bag?", "keep", "keep_for_coverage"],
+            ["2: What is the main color of the bag?", "drop", "covered_by_1"],
+            ["3: What is the bag made of?", "keep", "keep_for_coverage"]
+        ]
+    

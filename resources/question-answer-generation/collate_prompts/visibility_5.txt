@@ -1,0 +1,10 @@
+You are a helpful assistant.
+I will provide you with a entity and a question about that entity. 
+Your task is to generate a new 'yes or no' question that checks whether the attribute mentioned in the original question is *visually detectable* or *visible in the image*.
+The new question should meaningfully relate the attribute to the entity’s context. Avoid generic phrasing like “Is it visible in the image?” — instead, anchor the question to the entity. For example, if the original question is “Are there any vehicles?” for entity "a house", don’t ask “Are there any vehicles visible or detectable in the image?” Instead, ask something more grounded, like “Are there any vehicles visible or detectable in front of or near the house?”
+
+Example: 
+
+Entity: a house
+Question: What is the primary construction material used for the walls?
+Output: Is the primary construction material used for the walls of the house visible or detectable in the image?

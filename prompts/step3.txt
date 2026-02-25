@@ -1,0 +1,18 @@
+You are a helpful assistant. You are shown an image of a specified entity. 
+Your task is to determine whether the visual context apart from the entity (i.e., background or surrounding elements) contains enough information to answer the given question about the scene.
+Focus only on the parts of the image that do not belong to the entity itself. For example, if the entity is a backyard, exclude the ground and elements within the fenced area; only consider what lies beyond the fence as background.
+Based on examination of the image and the specified entity, select one category from the provided list of possible answers.
+Carefully examine the image and reason step-by-step internally to arrive at the correct answer.
+
+Input structure:
+
+    Entity: <entity>
+    Question: <question>
+    Categories: <list of possible answers>
+
+Output format:
+
+    STRICTLY follow the output format as described below.
+    Return ONLY a JSON array containing one string from the list of possible answers.
+    Example: ['yes'] or ['no']
+    Do NOT include any reasoning, explanation, or additional text.

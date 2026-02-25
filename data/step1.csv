@@ -1,0 +1,161 @@
+prompt_id,prompt,entity,entity_id,region,question,answer_list,question_id
+0,A photo of a bag in United Kingdom,a bag,0,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+1,A photo of a bag in Nigeria,a bag,0,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+2,A photo of a bag in Turkey,a bag,0,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+3,A photo of a bag in Indonesia,a bag,0,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+4,A photo of a bag in Colombia,a bag,0,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+5,A photo of a bag in Japan,a bag,0,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+6,A photo of a bag in India,a bag,0,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+78,A photo of a bag in United States of America,a bag,0,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+72,A photo of a bag in Egypt,a bag,0,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+73,A photo of a bag in Philippines,a bag,0,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+74,A photo of a bag in Mexico,a bag,0,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+75,A photo of a bag in United Arab Emirates,a bag,0,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+76,A photo of a bag in South Korea,a bag,0,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+77,A photo of a bag in China,a bag,0,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+71,A photo of a bag in Italy,a bag,0,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+70,A photo of a bag in Spain,a bag,0,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+80,A photo of a chair in Italy,a chair,6,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+81,A photo of a chair in Egypt,a chair,6,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+82,A photo of a chair in Philippines,a chair,6,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+83,A photo of a chair in Mexico,a chair,6,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+84,A photo of a chair in United Arab Emirates,a chair,6,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+85,A photo of a chair in South Korea,a chair,6,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+79,A photo of a chair in Spain,a chair,6,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+7,A photo of a chair in United Kingdom,a chair,6,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+8,A photo of a chair in Nigeria,a chair,6,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+9,A photo of a chair in Turkey,a chair,6,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+10,A photo of a chair in Indonesia,a chair,6,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+11,A photo of a chair in Colombia,a chair,6,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+12,A photo of a chair in Japan,a chair,6,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+13,A photo of a chair in India,a chair,6,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+87,A photo of a chair in United States of America,a chair,6,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+86,A photo of a chair in China,a chair,6,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+16,A photo of a plate of food in Turkey,a plate of food,10,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+17,A photo of a plate of food in Indonesia,a plate of food,10,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+18,A photo of a plate of food in Colombia,a plate of food,10,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+19,A photo of a plate of food in Japan,a plate of food,10,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+20,A photo of a plate of food in India,a plate of food,10,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+96,A photo of a plate of food in United States of America,a plate of food,10,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+95,A photo of a plate of food in China,a plate of food,10,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+94,A photo of a plate of food in South Korea,a plate of food,10,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+91,A photo of a plate of food in Philippines,a plate of food,10,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+90,A photo of a plate of food in Egypt,a plate of food,10,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+93,A photo of a plate of food in United Arab Emirates,a plate of food,10,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+92,A photo of a plate of food in Mexico,a plate of food,10,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+89,A photo of a plate of food in Italy,a plate of food,10,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+88,A photo of a plate of food in Spain,a plate of food,10,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+14,A photo of a plate of food in United Kingdom,a plate of food,10,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+15,A photo of a plate of food in Nigeria,a plate of food,10,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+100,A photo of a stove in Philippines,a stove,12,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+97,A photo of a stove in Spain,a stove,12,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+98,A photo of a stove in Italy,a stove,12,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+99,A photo of a stove in Egypt,a stove,12,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+101,A photo of a stove in Mexico,a stove,12,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+21,A photo of a stove in United Kingdom,a stove,12,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+22,A photo of a stove in Nigeria,a stove,12,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+23,A photo of a stove in Turkey,a stove,12,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+24,A photo of a stove in Indonesia,a stove,12,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+25,A photo of a stove in Colombia,a stove,12,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+26,A photo of a stove in Japan,a stove,12,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+27,A photo of a stove in India,a stove,12,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+103,A photo of a stove in South Korea,a stove,12,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+102,A photo of a stove in United Arab Emirates,a stove,12,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+105,A photo of a stove in United States of America,a stove,12,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+104,A photo of a stove in China,a stove,12,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+31,A photo of a cooking pot in Indonesia,a cooking pot,13,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+30,A photo of a cooking pot in Turkey,a cooking pot,13,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+29,A photo of a cooking pot in Nigeria,a cooking pot,13,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+28,A photo of a cooking pot in United Kingdom,a cooking pot,13,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+108,A photo of a cooking pot in Egypt,a cooking pot,13,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+109,A photo of a cooking pot in Philippines,a cooking pot,13,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+114,A photo of a cooking pot in United States of America,a cooking pot,13,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+107,A photo of a cooking pot in Italy,a cooking pot,13,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+112,A photo of a cooking pot in South Korea,a cooking pot,13,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+113,A photo of a cooking pot in China,a cooking pot,13,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+106,A photo of a cooking pot in Spain,a cooking pot,13,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+111,A photo of a cooking pot in United Arab Emirates,a cooking pot,13,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+110,A photo of a cooking pot in Mexico,a cooking pot,13,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+34,A photo of a cooking pot in India,a cooking pot,13,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+33,A photo of a cooking pot in Japan,a cooking pot,13,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+32,A photo of a cooking pot in Colombia,a cooking pot,13,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+120,A photo of a house in United Arab Emirates,a house,23,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+121,A photo of a house in South Korea,a house,23,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+122,A photo of a house in China,a house,23,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+123,A photo of a house in United States of America,a house,23,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+118,A photo of a house in Philippines,a house,23,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+119,A photo of a house in Mexico,a house,23,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+41,A photo of a house in India,a house,23,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+40,A photo of a house in Japan,a house,23,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+39,A photo of a house in Colombia,a house,23,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+38,A photo of a house in Indonesia,a house,23,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+37,A photo of a house in Turkey,a house,23,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+36,A photo of a house in Nigeria,a house,23,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+35,A photo of a house in United Kingdom,a house,23,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+117,A photo of a house in Egypt,a house,23,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+116,A photo of a house in Italy,a house,23,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+115,A photo of a house in Spain,a house,23,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+47,A photo of a backyard in Japan,a backyard,24,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+46,A photo of a backyard in Colombia,a backyard,24,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+45,A photo of a backyard in Indonesia,a backyard,24,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+44,A photo of a backyard in Turkey,a backyard,24,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+43,A photo of a backyard in Nigeria,a backyard,24,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+42,A photo of a backyard in United Kingdom,a backyard,24,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+124,A photo of a backyard in Spain,a backyard,24,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+125,A photo of a backyard in Italy,a backyard,24,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+126,A photo of a backyard in Egypt,a backyard,24,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+127,A photo of a backyard in Philippines,a backyard,24,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+48,A photo of a backyard in India,a backyard,24,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+132,A photo of a backyard in United States of America,a backyard,24,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+131,A photo of a backyard in China,a backyard,24,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+130,A photo of a backyard in South Korea,a backyard,24,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+129,A photo of a backyard in United Arab Emirates,a backyard,24,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+128,A photo of a backyard in Mexico,a backyard,24,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+55,A photo of a car in India,a car,27,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+54,A photo of a car in Japan,a car,27,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+141,A photo of a car in United States of America,a car,27,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+140,A photo of a car in China,a car,27,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+139,A photo of a car in South Korea,a car,27,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+138,A photo of a car in United Arab Emirates,a car,27,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+137,A photo of a car in Mexico,a car,27,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+136,A photo of a car in Philippines,a car,27,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+135,A photo of a car in Egypt,a car,27,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+134,A photo of a car in Italy,a car,27,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+133,A photo of a car in Spain,a car,27,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+53,A photo of a car in Colombia,a car,27,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+51,A photo of a car in Turkey,a car,27,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+50,A photo of a car in Nigeria,a car,27,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+49,A photo of a car in United Kingdom,a car,27,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+52,A photo of a car in Indonesia,a car,27,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+144,A photo of a dog in Egypt,a dog,30,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+145,A photo of a dog in Philippines,a dog,30,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+146,A photo of a dog in Mexico,a dog,30,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+147,A photo of a dog in United Arab Emirates,a dog,30,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+148,A photo of a dog in South Korea,a dog,30,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+149,A photo of a dog in China,a dog,30,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+150,A photo of a dog in United States of America,a dog,30,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+62,A photo of a dog in India,a dog,30,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+56,A photo of a dog in United Kingdom,a dog,30,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+57,A photo of a dog in Nigeria,a dog,30,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+58,A photo of a dog in Turkey,a dog,30,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+59,A photo of a dog in Indonesia,a dog,30,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+60,A photo of a dog in Colombia,a dog,30,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+61,A photo of a dog in Japan,a dog,30,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+142,A photo of a dog in Spain,a dog,30,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+143,A photo of a dog in Italy,a dog,30,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+69,A photo of a storefront in India,a storefront,38,India,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+68,A photo of a storefront in Japan,a storefront,38,Japan,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+67,A photo of a storefront in Colombia,a storefront,38,Colombia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+66,A photo of a storefront in Indonesia,a storefront,38,Indonesia,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+64,A photo of a storefront in Nigeria,a storefront,38,Nigeria,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+65,A photo of a storefront in Turkey,a storefront,38,Turkey,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+63,A photo of a storefront in United Kingdom,a storefront,38,United Kingdom,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+151,A photo of a storefront in Spain,a storefront,38,Spain,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+152,A photo of a storefront in Italy,a storefront,38,Italy,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+153,A photo of a storefront in Egypt,a storefront,38,Egypt,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+154,A photo of a storefront in Philippines,a storefront,38,Philippines,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+155,A photo of a storefront in Mexico,a storefront,38,Mexico,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+156,A photo of a storefront in United Arab Emirates,a storefront,38,United Arab Emirates,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+157,A photo of a storefront in South Korea,a storefront,38,South Korea,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+158,A photo of a storefront in China,a storefront,38,China,Is there any visible background in the image apart from the object?,"['yes','no']",s1
+159,A photo of a storefront in United States of America,a storefront,38,United States of America,Is there any visible background in the image apart from the object?,"['yes','no']",s1

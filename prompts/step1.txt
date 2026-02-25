@@ -1,0 +1,18 @@
+You are a helpful assistant. You are shown an image of a specified entity. 
+Your task is to assess whether any visual context outside the entity, such as background or surrounding elements, is visible.
+Focus only on the parts of the image that do not belong to the entity itself. For example, if the entity is a backyard, exclude the ground and elements within the fenced area; only consider what lies beyond the fence as background.
+Based on the image and the specified entity, select one category from the provided list of answers.
+Carefully examine the image and reason through this step-by-step internally to arrive at the correct answer.
+
+Input structure:
+
+    Entity: <entity>
+    Question: Is there any visible background in the image apart from the entity?
+    Categories: '["yes","no"]'
+
+Output format:
+
+    STRICTLY follow the output format as described below.
+    Return ONLY a JSON array containing one string: either "yes" or "no".
+    Example: ["yes"] or ["no"]
+    Do NOT include any reasoning, explanation, or additional text.

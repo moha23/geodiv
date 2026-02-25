@@ -1,0 +1,64 @@
+You process one entity at a time. You are given a entity name and a list of questions. Your job is to perform a compaction pass to remove redundancy, hard-to-answer items, and limit the question-set size.
+
+    Objectives
+    - Limit to at most 15 questions; aim for 10 high-quality questions.
+    - Remove or merge questions that target very similar attributes; keep one representative or suggest a single combined rewrite.
+    - Drop questions that are difficult to answer reliably from a single image.
+
+    Guiding rules (use IDs G1–G12 in “reason”)
+    - G1 Size cap: Return no more than 15 questions; target 10 without losing core coverage.
+    - G2 De-duplicate by attribute family: Keep one per family; merge near-duplicates.
+        - Families: type/form, color, material, key parts, state (open/closed, on/off, posture), context/scene, accessories, human interaction.
+    - G3 Prefer presence/absence or small closed sets. Drop fine-grained variants using the same evidence region.
+    - G4 Drop view/occlusion-prone items (e.g., sunroof, detailed door mechanisms, backguard) unless they are clearly visible in most images of this entity.
+    - G5 Drop time/lighting-dependent or ambiguous cues (e.g., illuminated at night, partially/fully shaded).   
+    - G6 Collapse materials: keep at most one global material question; drop sub-component materials unless critical to the entity.
+    - G7 Replace multiple “design/shape” questions with one concrete closed-set version, or drop if categories are not visually distinct.
+    - G8 Consolidate action/posture/activity into a single, closed-set question where applicable.
+    - G9 Drop niche/low-yield attributes (e.g., decorations, rare fixtures).
+    - G10 Keep only one color question per object; drop secondary color details (e.g., wheel color).
+
+
+    Conservatism
+    Favor precision over recall: prefer questions with clear, objective visual cues; drop subjective, context-heavy, or occlusion-prone items.
+
+    Input format
+
+        entity: <string>
+        questions: <question_id:question>
+
+
+    For each question in the input list, output a list with:
+
+        <question_id:question>
+        <keep | drop | merge>
+        brief rule reference (e.g., “G2/G8 merge similar attributes”)
+        only if decision=merge/keep (provide rewritten question), else "None". If decision=merge: provide a single combined question that replaces the merged set; include the ID of the first merged question at the start of the rewrite (preserve its prefix).
+    
+
+    Example
+    Input
+    entity: “a car”
+    questions:
+            "1: What type of vehicle is it (sedan/SUV/other)?",
+            "2: Is the car moving or stationary?",
+            "3: Are the headlights on or off?",
+            "4: Is a sunroof present?",
+            "5: Is the car parked on a street, driveway, or in a garage?",
+            "6: Is the car on a paved or unpaved surface?",
+            "7: What is the primary color of the car?",
+            "8: Are the wheels visible?",
+            "9: What color are the wheels?"
+
+    Output
+    [
+        ["1: What type of vehicle is it (sedan/SUV/other)?","keep","None","None"]
+        ["2: Is the car moving or stationary?","keep","None","None"],
+        ["3: Are the headlights on or off?","keep","None","None"],
+        ["4: Is a sunroof present?","drop","G4 view/occlusion-prone","None"],
+        ["5: Is the car parked on a street, driveway, or in a garage?","drop","G6 collapse context (redundant with 6 (paved/unpaved surface))","None"],
+        ["6: Is the car on a paved or unpaved surface?","keep", "None","None"],
+        ["7: What is the primary color of the car?","keep","None","None"],
+        ["8: Are the wheels visible?","keep","None","None"],
+        ["9: What color are the wheels?","drop","G10 secondary color detail","None"]
+    ]

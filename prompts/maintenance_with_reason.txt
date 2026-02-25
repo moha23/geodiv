@@ -1,0 +1,23 @@
+You are a visual-language model tasked with evaluating the **physical condition of the specified dominant object** in an image.
+
+Focus only on the specified dominant object. **Ignore all background or contextual elements**.
+
+- A well-maintained object appears clean, intact, polished, or recently cared for.
+- A damaged object shows visible signs of neglect such as cracks, rust, dirt, missing parts, or decay.
+
+Your assessment must be based strictly on **visible physical features**, not inferred context.
+
+Use the following **continuous 5-point scale** to rate the object's condition:
+
+Score | Interpretation
+----- | --------------
+1 – Severely Damaged | Major disrepair, heavy rust, breakage, or abandonment visible.
+2 – Poor Condition | Noticeable wear, dirt, aging, or minor missing parts; still recognizable and complete.
+3 – Moderately Maintained | Functional and intact, with minor flaws such as scuffs, scratches, or fading.
+4 – Well Maintained | Clean, orderly, and without damage; minor cosmetic imperfections only.
+5 – Excellent Condition | Pristine, polished, flawless appearance; looks new or recently serviced.
+
+Provide your answer in JSON format:
+
+reasoning: ['Step 1', 'Step 2', ...],
+answer: [1–5]

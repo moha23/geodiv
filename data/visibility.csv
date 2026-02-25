@@ -1,0 +1,833 @@
+entity,entity_id,question,question_id,answer_list,flag,prompt,prompt_id
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Japan,47
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Colombia,46
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Indonesia,45
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Turkey,44
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Nigeria,43
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in United Kingdom,42
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Spain,124
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Italy,125
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Egypt,126
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Philippines,127
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in India,48
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in United States of America,132
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in China,131
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in South Korea,130
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in United Arab Emirates,129
+a backyard,24,Is the primary ground cover of the backyard visible or identifiable in the image?,52g,"['yes','no']",NF,A photo of a backyard in Mexico,128
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in United Kingdom,0
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Nigeria,1
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Turkey,2
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Indonesia,3
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Colombia,4
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Japan,5
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in India,6
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in United States of America,78
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Egypt,72
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Philippines,73
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Mexico,74
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in United Arab Emirates,75
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in South Korea,76
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in China,77
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Italy,71
+a bag,0,Is the bag's closure type visible or identifiable in the image?,7g,"['yes','no']",NF,A photo of a bag in Spain,70
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in United Kingdom,0
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Nigeria,1
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Turkey,2
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Indonesia,3
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Colombia,4
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Japan,5
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in India,6
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in United States of America,78
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Egypt,72
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Philippines,73
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Mexico,74
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in United Arab Emirates,75
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in South Korea,76
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in China,77
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Italy,71
+a bag,0,Is the type of the bag visible or detectable in the image?,0g,"['yes','no']",NF,A photo of a bag in Spain,70
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in United Kingdom,0
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Nigeria,1
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Turkey,2
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Indonesia,3
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Colombia,4
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Japan,5
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in India,6
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in United States of America,78
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Egypt,72
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Philippines,73
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Mexico,74
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in United Arab Emirates,75
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in South Korea,76
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in China,77
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Italy,71
+a bag,0,Is the way the bag is being held or placed visible or detectable in the image?,8q,"['yes','no']",NF,A photo of a bag in Spain,70
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in United Kingdom,0
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Nigeria,1
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Turkey,2
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Indonesia,3
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Colombia,4
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Japan,5
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in India,6
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in United States of America,78
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Egypt,72
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Philippines,73
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Mexico,74
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in United Arab Emirates,75
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in South Korea,76
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in China,77
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Italy,71
+a bag,0,Is the bag's material visible or identifiable in the image?,2g,"['yes','no']",NF,A photo of a bag in Spain,70
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in United Kingdom,0
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Nigeria,1
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Turkey,2
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Indonesia,3
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Colombia,4
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Japan,5
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in India,6
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in United States of America,78
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Egypt,72
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Philippines,73
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Mexico,74
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in United Arab Emirates,75
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in South Korea,76
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in China,77
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Italy,71
+a bag,0,Is the bag's overall shape visible or detectable in the image?,5g,"['yes','no']",NF,A photo of a bag in Spain,70
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in United Kingdom,0
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Nigeria,1
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Turkey,2
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Indonesia,3
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Colombia,4
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Japan,5
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in India,6
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in United States of America,78
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Egypt,72
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Philippines,73
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Mexico,74
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in United Arab Emirates,75
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in South Korea,76
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in China,77
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Italy,71
+a bag,0,Is it visible or detectable from the image whether the bag's surface is a solid color or patterned?,6g,"['yes','no']",NF,A photo of a bag in Spain,70
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in United Kingdom,0
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Nigeria,1
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Turkey,2
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Indonesia,3
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Colombia,4
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Japan,5
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in India,6
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in United States of America,78
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Egypt,72
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Philippines,73
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Mexico,74
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in United Arab Emirates,75
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in South Korea,76
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in China,77
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Italy,71
+a bag,0,Is the main color of the bag visible or identifiable in the image?,1g,"['yes','no']",NF,A photo of a bag in Spain,70
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in India,55
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Japan,54
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in United States of America,141
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in China,140
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in South Korea,139
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in United Arab Emirates,138
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Mexico,137
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Philippines,136
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Egypt,135
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Italy,134
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Spain,133
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Colombia,53
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Turkey,51
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Nigeria,50
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in United Kingdom,49
+a car,27,Is it visible or detectable from the image if the car's lights are turned on or off?,68q,"['yes','no']",NF,A photo of a car in Indonesia,52
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in India,55
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Japan,54
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in United States of America,141
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in China,140
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in South Korea,139
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in United Arab Emirates,138
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Mexico,137
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Philippines,136
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Egypt,135
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Italy,134
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Spain,133
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Colombia,53
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Turkey,51
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Nigeria,50
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in United Kingdom,49
+a car,27,Is the car's roof type visible or identifiable in the image?,67l,"['yes','no']",NF,A photo of a car in Indonesia,52
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in India,55
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Japan,54
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in United States of America,141
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in China,140
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in South Korea,139
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in United Arab Emirates,138
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Mexico,137
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Philippines,136
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Egypt,135
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Italy,134
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Spain,133
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Colombia,53
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Turkey,51
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Nigeria,50
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in United Kingdom,49
+a car,27,Is the body style of the car visible or identifiable in the image?,61g,"['yes','no']",NF,A photo of a car in Indonesia,52
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in India,55
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Japan,54
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in United States of America,141
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in China,140
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in South Korea,139
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in United Arab Emirates,138
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Mexico,137
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Philippines,136
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Egypt,135
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Italy,134
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Spain,133
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Colombia,53
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Turkey,51
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Nigeria,50
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in United Kingdom,49
+a car,27,Is it visible or detectable from the image if the car is moving or stationary?,63g,"['yes','no']",NF,A photo of a car in Indonesia,52
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in India,55
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Japan,54
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in United States of America,141
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in China,140
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in South Korea,139
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in United Arab Emirates,138
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Mexico,137
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Philippines,136
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Egypt,135
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Italy,134
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Spain,133
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Colombia,53
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Turkey,51
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Nigeria,50
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in United Kingdom,49
+a car,27,Is the type of surface the car is on visible or detectable in the image?,65g,"['yes','no']",NF,A photo of a car in Indonesia,52
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in India,55
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Japan,54
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in United States of America,141
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in China,140
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in South Korea,139
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in United Arab Emirates,138
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Mexico,137
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Philippines,136
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Egypt,135
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Italy,134
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Spain,133
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Colombia,53
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Turkey,51
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Nigeria,50
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in United Kingdom,49
+a car,27,Is the viewing angle of the car visible or identifiable in the image?,68g,"['yes','no']",NF,A photo of a car in Indonesia,52
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in India,55
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Japan,54
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in United States of America,141
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in China,140
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in South Korea,139
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in United Arab Emirates,138
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Mexico,137
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Philippines,136
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Egypt,135
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Italy,134
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Spain,133
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Colombia,53
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Turkey,51
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Nigeria,50
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in United Kingdom,49
+a car,27,Is the primary color of the car visible or identifiable in the image?,62g,"['yes','no']",NF,A photo of a car in Indonesia,52
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Italy,80
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Egypt,81
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Philippines,82
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Mexico,83
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in United Arab Emirates,84
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in South Korea,85
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Spain,79
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in United Kingdom,7
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Nigeria,8
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Turkey,9
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Indonesia,10
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Colombia,11
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in Japan,12
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in India,13
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in United States of America,87
+a chair,6,Is it visible or detectable from the image if the chair has multiple distinct legs or a single central base?,11g,"['yes','no']",NF,A photo of a chair in China,86
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Italy,80
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Egypt,81
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Philippines,82
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Mexico,83
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in United Arab Emirates,84
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in South Korea,85
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Spain,79
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in United Kingdom,7
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Nigeria,8
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Turkey,9
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Indonesia,10
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Colombia,11
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in Japan,12
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in India,13
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in United States of America,87
+a chair,6,Is the construction style of the chair's backrest visible or identifiable in the image?,14g,"['yes','no']",NF,A photo of a chair in China,86
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Italy,80
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Egypt,81
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Philippines,82
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Mexico,83
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in United Arab Emirates,84
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in South Korea,85
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Spain,79
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in United Kingdom,7
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Nigeria,8
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Turkey,9
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Indonesia,10
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Colombia,11
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in Japan,12
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in India,13
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in United States of America,87
+a chair,6,Is it visible or detectable from the image if the chair is designed for a single person or multiple people?,15q,"['yes','no']",NF,A photo of a chair in China,86
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Italy,80
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Egypt,81
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Philippines,82
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Mexico,83
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in United Arab Emirates,84
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in South Korea,85
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Spain,79
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in United Kingdom,7
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Nigeria,8
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Turkey,9
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Indonesia,10
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Colombia,11
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in Japan,12
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in India,13
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in United States of America,87
+a chair,6,Is the shape of the chair's backrest visible or identifiable in the image?,11l,"['yes','no']",NF,A photo of a chair in China,86
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Italy,80
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Egypt,81
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Philippines,82
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Mexico,83
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in United Arab Emirates,84
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in South Korea,85
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Spain,79
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in United Kingdom,7
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Nigeria,8
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Turkey,9
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Indonesia,10
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Colombia,11
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in Japan,12
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in India,13
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in United States of America,87
+a chair,6,Is the shape of the chair's seat visible or identifiable in the image?,15o,"['yes','no']",NF,A photo of a chair in China,86
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Italy,80
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Egypt,81
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Philippines,82
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Mexico,83
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in United Arab Emirates,84
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in South Korea,85
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Spain,79
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in United Kingdom,7
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Nigeria,8
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Turkey,9
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Indonesia,10
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Colombia,11
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in Japan,12
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in India,13
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in United States of America,87
+a chair,6,Is it visible or identifiable from the image if the seat of the chair is cushioned or hard?,15g,"['yes','no']",NF,A photo of a chair in China,86
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Italy,80
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Egypt,81
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Philippines,82
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Mexico,83
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in United Arab Emirates,84
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in South Korea,85
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Spain,79
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in United Kingdom,7
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Nigeria,8
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Turkey,9
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Indonesia,10
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Colombia,11
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in Japan,12
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in India,13
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in United States of America,87
+a chair,6,Is the primary color of the chair visible or identifiable in the image?,12g,"['yes','no']",NF,A photo of a chair in China,86
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Italy,80
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Egypt,81
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Philippines,82
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Mexico,83
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in United Arab Emirates,84
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in South Korea,85
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Spain,79
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in United Kingdom,7
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Nigeria,8
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Turkey,9
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Indonesia,10
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Colombia,11
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in Japan,12
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in India,13
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in United States of America,87
+a chair,6,Is the primary material of the chair visible or identifiable in the image?,9o,"['yes','no']",NF,A photo of a chair in China,86
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Indonesia,31
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Turkey,30
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Nigeria,29
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in United Kingdom,28
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Egypt,108
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Philippines,109
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in United States of America,114
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Italy,107
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in South Korea,112
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in China,113
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Spain,106
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in United Arab Emirates,111
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Mexico,110
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in India,34
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Japan,33
+a cooking pot,13,Is the primary color of the cooking pot visible or identifiable in the image?,34g,"['yes','no']",NF,A photo of a cooking pot in Colombia,32
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Indonesia,31
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Turkey,30
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Nigeria,29
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in United Kingdom,28
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Egypt,108
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Philippines,109
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in United States of America,114
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Italy,107
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in South Korea,112
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in China,113
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Spain,106
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in United Arab Emirates,111
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Mexico,110
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in India,34
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Japan,33
+a cooking pot,13,Is the material of the cooking pot visible or identifiable in the image?,35g,"['yes','no']",NF,A photo of a cooking pot in Colombia,32
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Egypt,144
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Philippines,145
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Mexico,146
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in United Arab Emirates,147
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in South Korea,148
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in China,149
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in United States of America,150
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in India,62
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in United Kingdom,56
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Nigeria,57
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Turkey,58
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Indonesia,59
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Colombia,60
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Japan,61
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Spain,142
+a dog,30,Is the shape of the dog's ears visible or identifiable in the image?,74l,"['yes','no']",NF,A photo of a dog in Italy,143
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Egypt,144
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Philippines,145
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Mexico,146
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in United Arab Emirates,147
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in South Korea,148
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in China,149
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in United States of America,150
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in India,62
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in United Kingdom,56
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Nigeria,57
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Turkey,58
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Indonesia,59
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Colombia,60
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Japan,61
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Spain,142
+a dog,30,Is the length of the dog's fur visible or identifiable in the image?,75q,"['yes','no']",NF,A photo of a dog in Italy,143
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Egypt,144
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Philippines,145
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Mexico,146
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in United Arab Emirates,147
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in South Korea,148
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in China,149
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in United States of America,150
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in India,62
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in United Kingdom,56
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Nigeria,57
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Turkey,58
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Indonesia,59
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Colombia,60
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Japan,61
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Spain,142
+a dog,30,Is it visible or detectable from the image whether the dog's fur is a single solid color or has multiple colors/patterns?,69g,"['yes','no']",NF,A photo of a dog in Italy,143
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Egypt,144
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Philippines,145
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Mexico,146
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in United Arab Emirates,147
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in South Korea,148
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in China,149
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in United States of America,150
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in India,62
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in United Kingdom,56
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Nigeria,57
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Turkey,58
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Indonesia,59
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Colombia,60
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Japan,61
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Spain,142
+a dog,30,Is it visible or identifiable from the image if the dog is in an indoor or outdoor setting?,77g,"['yes','no']",NF,A photo of a dog in Italy,143
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Egypt,144
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Philippines,145
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Mexico,146
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in United Arab Emirates,147
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in South Korea,148
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in China,149
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in United States of America,150
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in India,62
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in United Kingdom,56
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Nigeria,57
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Turkey,58
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Indonesia,59
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Colombia,60
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Japan,61
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Spain,142
+a dog,30,Is it visible or detectable from the image if the dog's mouth is open or closed?,74g,"['yes','no']",NF,A photo of a dog in Italy,143
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Egypt,144
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Philippines,145
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Mexico,146
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in United Arab Emirates,147
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in South Korea,148
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in China,149
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in United States of America,150
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in India,62
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in United Kingdom,56
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Nigeria,57
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Turkey,58
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Indonesia,59
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Colombia,60
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Japan,61
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Spain,142
+a dog,30,Is the dog's primary activity or posture visible or identifiable in the image?,73q,"['yes','no']",NF,A photo of a dog in Italy,143
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in United Arab Emirates,120
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in South Korea,121
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in China,122
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in United States of America,123
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Philippines,118
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Mexico,119
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in India,41
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Japan,40
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Colombia,39
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Indonesia,38
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Turkey,37
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Nigeria,36
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in United Kingdom,35
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Egypt,117
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Italy,116
+a house,23,Is it visible or detectable from the image whether a door on the house is open or closed?,51l,"['yes','no']",NF,A photo of a house in Spain,115
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in United Arab Emirates,120
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in South Korea,121
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in China,122
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in United States of America,123
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Philippines,118
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Mexico,119
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in India,41
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Japan,40
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Colombia,39
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Indonesia,38
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Turkey,37
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Nigeria,36
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in United Kingdom,35
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Egypt,117
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Italy,116
+a house,23,Is the number of storeys of the house visible or identifiable in the image?,44g,"['yes','no']",NF,A photo of a house in Spain,115
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in United Arab Emirates,120
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in South Korea,121
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in China,122
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in United States of America,123
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Philippines,118
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Mexico,119
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in India,41
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Japan,40
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Colombia,39
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Indonesia,38
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Turkey,37
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Nigeria,36
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in United Kingdom,35
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Egypt,117
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Italy,116
+a house,23,Is the slope of the house's roof visible or identifiable in the image?,45g,"['yes','no']",NF,A photo of a house in Spain,115
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in United Arab Emirates,120
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in South Korea,121
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in China,122
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in United States of America,123
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Philippines,118
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Mexico,119
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in India,41
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Japan,40
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Colombia,39
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Indonesia,38
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Turkey,37
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Nigeria,36
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in United Kingdom,35
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Egypt,117
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Italy,116
+a house,23,Is the main color of the house's exterior visible or identifiable in the image?,43g,"['yes','no']",NF,A photo of a house in Spain,115
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in United Arab Emirates,120
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in South Korea,121
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in China,122
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in United States of America,123
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Philippines,118
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Mexico,119
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in India,41
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Japan,40
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Colombia,39
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Indonesia,38
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Turkey,37
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Nigeria,36
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in United Kingdom,35
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Egypt,117
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Italy,116
+a house,23,Is the primary exterior material of the house visible or identifiable in the image?,46o,"['yes','no']",NF,A photo of a house in Spain,115
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in United Arab Emirates,120
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in South Korea,121
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in China,122
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in United States of America,123
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Philippines,118
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Mexico,119
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in India,41
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Japan,40
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Colombia,39
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Indonesia,38
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Turkey,37
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Nigeria,36
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in United Kingdom,35
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Egypt,117
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Italy,116
+a house,23,Is the primary ground cover around the house visible or identifiable in the image?,49o,"['yes','no']",NF,A photo of a house in Spain,115
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Turkey,16
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Indonesia,17
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Colombia,18
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Japan,19
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in India,20
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in United States of America,96
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in China,95
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in South Korea,94
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Philippines,91
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Egypt,90
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in United Arab Emirates,93
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Mexico,92
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Italy,89
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Spain,88
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in United Kingdom,14
+a plate of food,10,Is the physical state of the food on the plate visible or identifiable in the image?,20m,"['yes','no']",NF,A photo of a plate of food in Nigeria,15
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Turkey,16
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Indonesia,17
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Colombia,18
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Japan,19
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in India,20
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in United States of America,96
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in China,95
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in South Korea,94
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Philippines,91
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Egypt,90
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in United Arab Emirates,93
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Mexico,92
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Italy,89
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Spain,88
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in United Kingdom,14
+a plate of food,10,Is the surface the plate of food is on visible or detectable in the image?,26m,"['yes','no']",NF,A photo of a plate of food in Nigeria,15
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Turkey,16
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Indonesia,17
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Colombia,18
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Japan,19
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in India,20
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in United States of America,96
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in China,95
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in South Korea,94
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Philippines,91
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Egypt,90
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in United Arab Emirates,93
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Mexico,92
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Italy,89
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Spain,88
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in United Kingdom,14
+a plate of food,10,Is the primary color of the plate visible or detectable in the image?,20l,"['yes','no']",NF,A photo of a plate of food in Nigeria,15
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Turkey,16
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Indonesia,17
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Colombia,18
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Japan,19
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in India,20
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in United States of America,96
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in China,95
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in South Korea,94
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Philippines,91
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Egypt,90
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in United Arab Emirates,93
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Mexico,92
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Italy,89
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Spain,88
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in United Kingdom,14
+a plate of food,10,Is the shape of the plate visible or identifiable in the image?,17g,"['yes','no']",NF,A photo of a plate of food in Nigeria,15
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in India,69
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Japan,68
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Colombia,67
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Indonesia,66
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Nigeria,64
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Turkey,65
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in United Kingdom,63
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Spain,151
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Italy,152
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Egypt,153
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Philippines,154
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in Mexico,155
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in United Arab Emirates,156
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in South Korea,157
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in China,158
+a storefront,38,Is the storefront's facade's primary material visible or detectable from the image?,84g,"['yes','no']",NF,A photo of a storefront in United States of America,159
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in India,69
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Japan,68
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Colombia,67
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Indonesia,66
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Nigeria,64
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Turkey,65
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in United Kingdom,63
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Spain,151
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Italy,152
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Egypt,153
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Philippines,154
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in Mexico,155
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in United Arab Emirates,156
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in South Korea,157
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in China,158
+a storefront,38,Is it visible or detectable from the image if the main entrance door to the storefront is open or closed?,82g,"['yes','no']",NF,A photo of a storefront in United States of America,159
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in India,69
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Japan,68
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Colombia,67
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Indonesia,66
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Nigeria,64
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Turkey,65
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in United Kingdom,63
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Spain,151
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Italy,152
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Egypt,153
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Philippines,154
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in Mexico,155
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in United Arab Emirates,156
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in South Korea,157
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in China,158
+a storefront,38,Is the type of the storefront entrance visible or identifiable in the image?,88o,"['yes','no']",NF,A photo of a storefront in United States of America,159
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in India,69
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Japan,68
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Colombia,67
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Indonesia,66
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Nigeria,64
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Turkey,65
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in United Kingdom,63
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Spain,151
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Italy,152
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Egypt,153
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Philippines,154
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in Mexico,155
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in United Arab Emirates,156
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in South Korea,157
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in China,158
+a storefront,38,Is it visible or detectable from the image if the storefront is part of a larger building or a standalone structure?,89l,"['yes','no']",NF,A photo of a storefront in United States of America,159
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in India,69
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Japan,68
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Colombia,67
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Indonesia,66
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Nigeria,64
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Turkey,65
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in United Kingdom,63
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Spain,151
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Italy,152
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Egypt,153
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Philippines,154
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in Mexico,155
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in United Arab Emirates,156
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in South Korea,157
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in China,158
+a storefront,38,Is the primary color of the storefront's facade visible or identifiable in the image?,79g,"['yes','no']",NF,A photo of a storefront in United States of America,159
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Philippines,100
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Spain,97
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Italy,98
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Egypt,99
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Mexico,101
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in United Kingdom,21
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Nigeria,22
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Turkey,23
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Indonesia,24
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Colombia,25
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in Japan,26
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in India,27
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in South Korea,103
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in United Arab Emirates,102
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in United States of America,105
+a stove,12,Is it visible or detectable from the image whether the stove is freestanding or built into the surrounding counter?,28g,"['yes','no']",NF,A photo of a stove in China,104
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Philippines,100
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Spain,97
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Italy,98
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Egypt,99
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Mexico,101
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in United Kingdom,21
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Nigeria,22
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Turkey,23
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Indonesia,24
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Colombia,25
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in Japan,26
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in India,27
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in South Korea,103
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in United Arab Emirates,102
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in United States of America,105
+a stove,12,Is the primary color of the stove visible or identifiable in the image?,26g,"['yes','no']",NF,A photo of a stove in China,104
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Philippines,100
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Spain,97
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Italy,98
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Egypt,99
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Mexico,101
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in United Kingdom,21
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Nigeria,22
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Turkey,23
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Indonesia,24
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Colombia,25
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in Japan,26
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in India,27
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in South Korea,103
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in United Arab Emirates,102
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in United States of America,105
+a stove,12,Is the primary material of the stove's body visible or identifiable in the image?,33l,"['yes','no']",NF,A photo of a stove in China,104
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Philippines,100
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Spain,97
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Italy,98
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Egypt,99
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Mexico,101
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in United Kingdom,21
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Nigeria,22
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Turkey,23
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Indonesia,24
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Colombia,25
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in Japan,26
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in India,27
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in South Korea,103
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in United Arab Emirates,102
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in United States of America,105
+a stove,12,Is the kind of controls on the stove visible or identifiable in the image?,29g,"['yes','no']",NF,A photo of a stove in China,104
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Philippines,100
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Spain,97
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Italy,98
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Egypt,99
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Mexico,101
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in United Kingdom,21
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Nigeria,22
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Turkey,23
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Indonesia,24
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Colombia,25
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in Japan,26
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in India,27
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in South Korea,103
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in United Arab Emirates,102
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in United States of America,105
+a stove,12,Is the stove's cooktop type visible or identifiable in the image?,25g,"['yes','no']",NF,A photo of a stove in China,104
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in India,55
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Japan,54
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in United States of America,141
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in China,140
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in South Korea,139
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in United Arab Emirates,138
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Mexico,137
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Philippines,136
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Egypt,135
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Italy,134
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Spain,133
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Colombia,53
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Turkey,51
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Nigeria,50
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in United Kingdom,49
+a car,27,Is it visible or detectable from the image if the car appears modern or vintage?,u0,"['yes','no']",NF,A photo of a car in Indonesia,52

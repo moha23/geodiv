@@ -1,0 +1,161 @@
+prompt_id,prompt,entity,entity_id,region
+0,A photo of a bag in United Kingdom,a bag,0,United Kingdom
+1,A photo of a bag in Nigeria,a bag,0,Nigeria
+2,A photo of a bag in Turkey,a bag,0,Turkey
+3,A photo of a bag in Indonesia,a bag,0,Indonesia
+4,A photo of a bag in Colombia,a bag,0,Colombia
+5,A photo of a bag in Japan,a bag,0,Japan
+6,A photo of a bag in India,a bag,0,India
+78,A photo of a bag in United States of America,a bag,0,United States of America
+72,A photo of a bag in Egypt,a bag,0,Egypt
+73,A photo of a bag in Philippines,a bag,0,Philippines
+74,A photo of a bag in Mexico,a bag,0,Mexico
+75,A photo of a bag in United Arab Emirates,a bag,0,United Arab Emirates
+76,A photo of a bag in South Korea,a bag,0,South Korea
+77,A photo of a bag in China,a bag,0,China
+71,A photo of a bag in Italy,a bag,0,Italy
+70,A photo of a bag in Spain,a bag,0,Spain
+80,A photo of a chair in Italy,a chair,6,Italy
+81,A photo of a chair in Egypt,a chair,6,Egypt
+82,A photo of a chair in Philippines,a chair,6,Philippines
+83,A photo of a chair in Mexico,a chair,6,Mexico
+84,A photo of a chair in United Arab Emirates,a chair,6,United Arab Emirates
+85,A photo of a chair in South Korea,a chair,6,South Korea
+79,A photo of a chair in Spain,a chair,6,Spain
+7,A photo of a chair in United Kingdom,a chair,6,United Kingdom
+8,A photo of a chair in Nigeria,a chair,6,Nigeria
+9,A photo of a chair in Turkey,a chair,6,Turkey
+10,A photo of a chair in Indonesia,a chair,6,Indonesia
+11,A photo of a chair in Colombia,a chair,6,Colombia
+12,A photo of a chair in Japan,a chair,6,Japan
+13,A photo of a chair in India,a chair,6,India
+87,A photo of a chair in United States of America,a chair,6,United States of America
+86,A photo of a chair in China,a chair,6,China
+16,A photo of a plate of food in Turkey,a plate of food,10,Turkey
+17,A photo of a plate of food in Indonesia,a plate of food,10,Indonesia
+18,A photo of a plate of food in Colombia,a plate of food,10,Colombia
+19,A photo of a plate of food in Japan,a plate of food,10,Japan
+20,A photo of a plate of food in India,a plate of food,10,India
+96,A photo of a plate of food in United States of America,a plate of food,10,United States of America
+95,A photo of a plate of food in China,a plate of food,10,China
+94,A photo of a plate of food in South Korea,a plate of food,10,South Korea
+91,A photo of a plate of food in Philippines,a plate of food,10,Philippines
+90,A photo of a plate of food in Egypt,a plate of food,10,Egypt
+93,A photo of a plate of food in United Arab Emirates,a plate of food,10,United Arab Emirates
+92,A photo of a plate of food in Mexico,a plate of food,10,Mexico
+89,A photo of a plate of food in Italy,a plate of food,10,Italy
+88,A photo of a plate of food in Spain,a plate of food,10,Spain
+14,A photo of a plate of food in United Kingdom,a plate of food,10,United Kingdom
+15,A photo of a plate of food in Nigeria,a plate of food,10,Nigeria
+100,A photo of a stove in Philippines,a stove,12,Philippines
+97,A photo of a stove in Spain,a stove,12,Spain
+98,A photo of a stove in Italy,a stove,12,Italy
+99,A photo of a stove in Egypt,a stove,12,Egypt
+101,A photo of a stove in Mexico,a stove,12,Mexico
+21,A photo of a stove in United Kingdom,a stove,12,United Kingdom
+22,A photo of a stove in Nigeria,a stove,12,Nigeria
+23,A photo of a stove in Turkey,a stove,12,Turkey
+24,A photo of a stove in Indonesia,a stove,12,Indonesia
+25,A photo of a stove in Colombia,a stove,12,Colombia
+26,A photo of a stove in Japan,a stove,12,Japan
+27,A photo of a stove in India,a stove,12,India
+103,A photo of a stove in South Korea,a stove,12,South Korea
+102,A photo of a stove in United Arab Emirates,a stove,12,United Arab Emirates
+105,A photo of a stove in United States of America,a stove,12,United States of America
+104,A photo of a stove in China,a stove,12,China
+31,A photo of a cooking pot in Indonesia,a cooking pot,13,Indonesia
+30,A photo of a cooking pot in Turkey,a cooking pot,13,Turkey
+29,A photo of a cooking pot in Nigeria,a cooking pot,13,Nigeria
+28,A photo of a cooking pot in United Kingdom,a cooking pot,13,United Kingdom
+108,A photo of a cooking pot in Egypt,a cooking pot,13,Egypt
+109,A photo of a cooking pot in Philippines,a cooking pot,13,Philippines
+114,A photo of a cooking pot in United States of America,a cooking pot,13,United States of America
+107,A photo of a cooking pot in Italy,a cooking pot,13,Italy
+112,A photo of a cooking pot in South Korea,a cooking pot,13,South Korea
+113,A photo of a cooking pot in China,a cooking pot,13,China
+106,A photo of a cooking pot in Spain,a cooking pot,13,Spain
+111,A photo of a cooking pot in United Arab Emirates,a cooking pot,13,United Arab Emirates
+110,A photo of a cooking pot in Mexico,a cooking pot,13,Mexico
+34,A photo of a cooking pot in India,a cooking pot,13,India
+33,A photo of a cooking pot in Japan,a cooking pot,13,Japan
+32,A photo of a cooking pot in Colombia,a cooking pot,13,Colombia
+120,A photo of a house in United Arab Emirates,a house,23,United Arab Emirates
+121,A photo of a house in South Korea,a house,23,South Korea
+122,A photo of a house in China,a house,23,China
+123,A photo of a house in United States of America,a house,23,United States of America
+118,A photo of a house in Philippines,a house,23,Philippines
+119,A photo of a house in Mexico,a house,23,Mexico
+41,A photo of a house in India,a house,23,India
+40,A photo of a house in Japan,a house,23,Japan
+39,A photo of a house in Colombia,a house,23,Colombia
+38,A photo of a house in Indonesia,a house,23,Indonesia
+37,A photo of a house in Turkey,a house,23,Turkey
+36,A photo of a house in Nigeria,a house,23,Nigeria
+35,A photo of a house in United Kingdom,a house,23,United Kingdom
+117,A photo of a house in Egypt,a house,23,Egypt
+116,A photo of a house in Italy,a house,23,Italy
+115,A photo of a house in Spain,a house,23,Spain
+47,A photo of a backyard in Japan,a backyard,24,Japan
+46,A photo of a backyard in Colombia,a backyard,24,Colombia
+45,A photo of a backyard in Indonesia,a backyard,24,Indonesia
+44,A photo of a backyard in Turkey,a backyard,24,Turkey
+43,A photo of a backyard in Nigeria,a backyard,24,Nigeria
+42,A photo of a backyard in United Kingdom,a backyard,24,United Kingdom
+124,A photo of a backyard in Spain,a backyard,24,Spain
+125,A photo of a backyard in Italy,a backyard,24,Italy
+126,A photo of a backyard in Egypt,a backyard,24,Egypt
+127,A photo of a backyard in Philippines,a backyard,24,Philippines
+48,A photo of a backyard in India,a backyard,24,India
+132,A photo of a backyard in United States of America,a backyard,24,United States of America
+131,A photo of a backyard in China,a backyard,24,China
+130,A photo of a backyard in South Korea,a backyard,24,South Korea
+129,A photo of a backyard in United Arab Emirates,a backyard,24,United Arab Emirates
+128,A photo of a backyard in Mexico,a backyard,24,Mexico
+55,A photo of a car in India,a car,27,India
+54,A photo of a car in Japan,a car,27,Japan
+141,A photo of a car in United States of America,a car,27,United States of America
+140,A photo of a car in China,a car,27,China
+139,A photo of a car in South Korea,a car,27,South Korea
+138,A photo of a car in United Arab Emirates,a car,27,United Arab Emirates
+137,A photo of a car in Mexico,a car,27,Mexico
+136,A photo of a car in Philippines,a car,27,Philippines
+135,A photo of a car in Egypt,a car,27,Egypt
+134,A photo of a car in Italy,a car,27,Italy
+133,A photo of a car in Spain,a car,27,Spain
+53,A photo of a car in Colombia,a car,27,Colombia
+51,A photo of a car in Turkey,a car,27,Turkey
+50,A photo of a car in Nigeria,a car,27,Nigeria
+49,A photo of a car in United Kingdom,a car,27,United Kingdom
+52,A photo of a car in Indonesia,a car,27,Indonesia
+144,A photo of a dog in Egypt,a dog,30,Egypt
+145,A photo of a dog in Philippines,a dog,30,Philippines
+146,A photo of a dog in Mexico,a dog,30,Mexico
+147,A photo of a dog in United Arab Emirates,a dog,30,United Arab Emirates
+148,A photo of a dog in South Korea,a dog,30,South Korea
+149,A photo of a dog in China,a dog,30,China
+150,A photo of a dog in United States of America,a dog,30,United States of America
+62,A photo of a dog in India,a dog,30,India
+56,A photo of a dog in United Kingdom,a dog,30,United Kingdom
+57,A photo of a dog in Nigeria,a dog,30,Nigeria
+58,A photo of a dog in Turkey,a dog,30,Turkey
+59,A photo of a dog in Indonesia,a dog,30,Indonesia
+60,A photo of a dog in Colombia,a dog,30,Colombia
+61,A photo of a dog in Japan,a dog,30,Japan
+142,A photo of a dog in Spain,a dog,30,Spain
+143,A photo of a dog in Italy,a dog,30,Italy
+69,A photo of a storefront in India,a storefront,38,India
+68,A photo of a storefront in Japan,a storefront,38,Japan
+67,A photo of a storefront in Colombia,a storefront,38,Colombia
+66,A photo of a storefront in Indonesia,a storefront,38,Indonesia
+64,A photo of a storefront in Nigeria,a storefront,38,Nigeria
+65,A photo of a storefront in Turkey,a storefront,38,Turkey
+63,A photo of a storefront in United Kingdom,a storefront,38,United Kingdom
+151,A photo of a storefront in Spain,a storefront,38,Spain
+152,A photo of a storefront in Italy,a storefront,38,Italy
+153,A photo of a storefront in Egypt,a storefront,38,Egypt
+154,A photo of a storefront in Philippines,a storefront,38,Philippines
+155,A photo of a storefront in Mexico,a storefront,38,Mexico
+156,A photo of a storefront in United Arab Emirates,a storefront,38,United Arab Emirates
+157,A photo of a storefront in South Korea,a storefront,38,South Korea
+158,A photo of a storefront in China,a storefront,38,China
+159,A photo of a storefront in United States of America,a storefront,38,United States of America

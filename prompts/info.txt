@@ -1,0 +1,45 @@
+This folder contains prompt templates used for VQA-style evaluation and scoring in GeoDiv.
+
+Most prompts follow a shared input schema with placeholders such as Entity, Question, and Categories, and require strict JSON-only outputs.
+
+Files ending in _with_reason request both a reasoning list and the final answer.
+Gemini Flash (batch mode) returns reasoning by default; therefore, prompts without explicit reasoning requests are used in batch processing.
+For single-call execution (where reasoning is not returned by default), the _with_reason variants are used.
+
+Input placeholders (when present):
+	Entity: <entity>
+	Question: <question>
+	Categories: <list of possible answers>
+
+Output conventions:
+	- Single-label VQA: JSON array with one string, e.g., ['answer'].
+	- Multi-label VQA: JSON array with one or more strings, e.g., ['cat1', 'cat2'].
+	- *_with_reason: JSON object/fields with reasoning list + answer value(s).
+	- Affluence/Maintenance: numeric score 1-5 (with optional reasoning list).
+
+File list and purpose:
+
+    Entity Appearance (VDI-Entity)
+
+	single.txt: Entity-focused, single-label VQA; outputs one string in a JSON array.
+	single_with_reason.txt: Same as single.txt, with reasoning list + answer.
+	multiple.txt: Entity-focused, multi-label VQA; outputs list of strings.
+	multiple_with_reason.txt: Same as multiple.txt, with reasoning list + answer list.
+
+    Background Appearance (VDI – Background)
+
+	step1.txt: Background-visible check (yes/no) excluding the entity.
+	step1_with_reason.txt: Same as step1.txt, with reasoning list + answer.
+	step2.txt: Background context classification (indoors/outdoors).
+	step2_with_reason.txt: Same as step2.txt, with reasoning list + answer.
+	step3.txt: Background sufficiency check for answering a question (yes/no).
+	step3_with_reason.txt: Same as step3.txt, with reasoning list + answer.
+	step4.txt: Background-based multi-label question; outputs list of strings.
+	step4_with_reason.txt: Same as step4.txt, with reasoning list + answer list.
+
+    SEVI Dimensions
+    
+	affluence.txt: Socio-economic affluence scoring (1-5) using full visual cues.
+	affluence_with_reason.txt: Same as affluence.txt, with reasoning list + score.
+	maintenance.txt: Object condition scoring (1-5) focusing only on the entity.
+	maintenance_with_reason.txt: Same as maintenance.txt, with reasoning list + score.

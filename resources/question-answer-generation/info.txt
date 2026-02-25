@@ -1,0 +1,63 @@
+1. Initial Question Generation
+===============================
+entity_prompts.csv contains the list of entities and countries under consideration.
+
+Questions are generated using question_generation.py.
+As described in the paper, we use five different LLMs to produce five independent question sets.
+An ensemble approach increases coverage of visually detectable attributes, though a single LLM can also be used.
+
+The raw question sets exhibit substantial overlap. An aggregator LLM is therefore used to filter, merge, and deduplicate 
+semantically equivalent questions.
+
+    > On average, a single LLM produces ~6 questions per entity.
+    > After ensembling, this increases to ~11 questions per entity.
+    > Most overlap across models; typically each model contributes ~1 additional unique question.
+
+Example (Entity: “bag”)
+
+    > Gemini unique: “What type of bag is it (e.g., backpack, handbag, tote bag)?”
+
+    > GPT-4 unique: “Is there a brand logo or label visible on the bag?”
+
+All other generated questions were semantically equivalent.
+
+--------------------------------------------------------------------------------------------------------------------------------
+2. Collation & Filtering Pipeline (collate_prompts/)
+====================================================
+
+We provide the prompts used for the collation and filtering process in collate_prompts/ folder. The prompts are named
+x_i.txt where i is the step at which the prompt is used. Brief details provided below:
+    
+    Step 1 – filter_1.txt: Remove problematic questions
+        - Drops subjective attributes (size, style, condition, brand reading, open-ended actions)
+        - Keeps presence/absence, binary states, small closed sets, materials, colors, scene context
+        - Issues 'drop', 'keep', or 'replace' decisions with rule references
+    
+    Step 2 – collate_2.txt: Deduplicate and ensure coverage
+        - Merges semantically equivalent questions, keeping the clearest version
+        - Ensures coverage across: appearance, parts, materials, colors, shape, state, count, 
+          spatial relations, accessories, actions
+        - Labels decisions as 'keep' or 'drop' with reasons (e.g., "covered_by_<id>")
+    
+    Step 3 – filter_3.txt: Compaction pass (size cap ~10–15 questions)
+        - Removes redundancy and near-duplicates by attribute family
+        - Drops occlusion-prone, time/lighting-dependent, or niche attributes
+        - Collapses multiple design/material/color questions to one per family
+        - Issues 'keep', 'drop', or 'merge' decisions with guideline references (G1–G12)
+    
+    Step 4 – ground_4.txt: Ground questions to entity context
+        - Rewrites questions to explicitly reference the entity (e.g., "in/near/on the <entity>")
+        - Removes "None of these" or "Not visible" options
+        - Keeps phrasing concise and objective
+    
+    ---------- Prompt for generating the visibility check questions -----------------------
+    Step 5 – visibility_5.txt: Create yes/no visibility checks
+        - Generates paired binary questions to assess whether attributes are visually detectable
+        - Anchors questions to entity context (e.g., "in front of or near the house")
+        - Helps assess question answerability from single images
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+3. Answer Generation
+
+For the final question set, plausible answer lists are generated and filtered using answer_generation.py.
+

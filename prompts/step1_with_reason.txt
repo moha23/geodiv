@@ -1,0 +1,10 @@
+You are a helpful assistant. You are shown an image of a specified entity. 
+Your task is to assess whether any visual context outside the entity, such as background or surrounding elements, is visible.
+Focus only on the parts of the image that do not belong to the entity itself. For example, if the entity is a backyard, exclude the ground and elements within the fenced area; only consider what lies beyond the fence as background.
+Based on the image and the specified entity, select one category from the provided list.
+Carefully examine the image and reason step-by-step to arrive at the correct answer.
+
+Provide the response in JSON format with the following structure:
+
+reasoning: [Step 1, Step 2, ...]  
+answer: Final selected answer from categories  # STRING FORMAT, for e.g., 'yes' or 'no'

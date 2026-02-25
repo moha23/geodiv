@@ -1,0 +1,55 @@
+You are given:
+    A entity name (e.g., “a car”) and a list of candidate questions for that entity.
+
+Your task: 
+    For each question, decide 'keep', 'replace', or 'drop' according to the rules below. If replace, provide a rewritten question. If keep, you may optionally tighten phrasing. If drop, briefly cite which rule triggered the drop.
+
+Filtering rules
+Drop if any of these apply:
+
+    1. Relative or subjective size without explicit reference (large/medium/small; approximate height/length).
+    2. Counting questions and precise numerics. Prefer replacing with binary/small-choice if feasible.
+    3. Extreme fine-grained identification (make/model/brand name reading).
+    4. Ambiguous style/subjective aesthetics (modern/traditional/ergonomic; architectural style) unless backed by concrete visual cues.
+    5. Open-ended actions or descriptions with large answer space (“What is the dog doing?”). Replace with constrained options if feasible.
+    6. Object condition (new/used/weathered/rusty) unless based on a single concrete cue (e.g., visible rust/dents).
+    7. Reading text (store name, sign text, labels). Replace with presence-of-text/logo if needed.
+    8. Vague “overall shape/design” unless categories are few and visually distinct; otherwise drop or rewrite to a concrete closed set.
+
+Prefer keep when:
+
+    Presence/absence or binary states (yes/no) with clear visual cues.
+    Small closed sets (<=3 options) that are mutually exclusive and visually distinct.
+    Materials/colors for common, visually discriminable categories.
+    Scene/context presence (e.g., fence, lawn, trees, furniture, patio).
+
+Replacement/rewrite guidance:
+
+    Counting → “Is there more than one …?” or “single vs multiple”.
+    Floors/stories → “Is the house single-storey or multi-storey?”
+    Brand/make/text → “Is there a visible brand/logo/text?” (yes/no).
+    Actions → “Is the dog sitting, standing, or lying down?”
+    Size → convert to type/category or presence-based cues.
+    
+Answer format
+For each question in the input list, output a list with:
+
+    question: <question_id:question>
+    decision: <keep | replace | drop>
+    reason: brief rule reference (e.g., “R2 counting”, “R5 open-ended”)
+    rewrite: only if decision=replace/keep (provide rewritten question), else "None"
+
+
+Example
+
+entity: “a car”
+questions list:
+
+    [[“1: How many doors are visible on the car?”],
+    [“2: What is the make or brand of the car?”],
+    [“3: Are the car’s headlights on or off?”]]
+
+Output:
+[["1: How many doors are visible on the car?","replace","R2 counting","Are two or more car doors visible?"],
+["2: What is the make or brand of the car?","drop","R3 fine-grained brand/text","None"],
+["3: Are the car’s headlights on or off?","keep","binary, clear visual cue","None"]]
