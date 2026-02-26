@@ -8,7 +8,7 @@
 This is the official repository for **GeoDiv: Framework for Measuring Geographical Diversity in Text-to-Image Models** (ICLR 2026).
 
 <p align="center">
-    <a href="https://arxiv.org/abs/">Paper</a> | <a href="https://abhipsabasu.github.io/geodiv/">Project Page</a>
+    <a href="http://arxiv.org/abs/2602.22120">Paper</a> | <a href="https://abhipsabasu.github.io/geodiv/">Project Page</a>
 </p>
 
 
